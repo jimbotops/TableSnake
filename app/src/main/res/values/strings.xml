@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TableSnake</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="white">#FFFFFF</color>
+
+    <string name="colour_prompt">Choose a colour</string>
+
+    <string-array name="colour_arrays">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>pink</item>
+        <item>white</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>purple</item>
+    </string-array>
+
+</resources>

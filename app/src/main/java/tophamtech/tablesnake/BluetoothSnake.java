@@ -156,7 +156,7 @@ public class BluetoothSnake extends ActionBarActivity {
             }
         }
         //%.TODO - Replace with try/catch
-        if (pairedBool == false){
+        if (!pairedBool){
             Toast.makeText(getApplicationContext(), "Failed to connect", Toast.LENGTH_LONG).show();
             submitColour.setEnabled(false);
         }

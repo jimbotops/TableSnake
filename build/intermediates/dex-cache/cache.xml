@@ -2,53 +2,40 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\jimbo_000\AndroidStudioProjects\TableSnake\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        is-multidex="false"
+        jar="C:\Users\jimbo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\jimbo_000\AndroidStudioProjects\TableSnake\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4452d12b29b84d32198265e2d511e3f3b9582703.jar" />
-    </item>
-    <item
-        jar="C:\Users\jimbo_000\AndroidStudioProjects\TableSnake\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\jimbo_000\AndroidStudioProjects\TableSnake\app\build\intermediates\pre-dexed\debug\classes-53c060c1c856890a5eba9b54d3372acbcd5e4ffc.jar" />
-    </item>
-    <item
-        jar="C:\Users\jimbo_000\AndroidStudioProjects\TableSnakeMain\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\jimbo_000\AndroidStudioProjects\TableSnakeMain\app\build\intermediates\pre-dexed\debug\classes-7403666de5682ed0b5acd61b81052f1dff6aad41.jar" />
-    </item>
-    <item
-        jar="D:\SSD_installs\And_sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
+        optimize="true"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\jimbo_000\AndroidStudioProjects\TableSnake\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7b0d315600427797b1909f6a1ef7c838beb8ac32.jar" />
+        <dex dex="C:\Users\jimbo\Documents\Android\TableSnake\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_3601ea23e479c5e96409fe89bb02c2bfe89c009e.jar" />
     </item>
     <item
-        jar="C:\Users\jimbo_000\AndroidStudioProjects\TableSnake\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\jimbo\Documents\Android\TableSnake\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\jimbo_000\AndroidStudioProjects\TableSnake\app\build\intermediates\pre-dexed\debug\classes-5b47a1787fd1ad621b08eadaec22742c471bb9bd.jar" />
-    </item>
-    <item
-        jar="C:\Users\jimbo_000\AndroidStudioProjects\TableSnakeMain\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
+        optimize="true"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\jimbo_000\AndroidStudioProjects\TableSnakeMain\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4f1b3d0ba37cb7c2fbe849606d50b0c153c23ea8.jar" />
+        <dex dex="C:\Users\jimbo\Documents\Android\TableSnake\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_0b5c2dddb13ce5e81f794327386039b1dcd5948b.jar" />
     </item>
     <item
-        jar="C:\Users\jimbo_000\AndroidStudioProjects\TableSnakeMain\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\jimbo\Documents\Android\TableSnake\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\jimbo\Documents\Android\TableSnake\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_74e88efc74786e87d310e9684f6500b4174cedd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jimbo\Documents\Android\TableSnake\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\jimbo_000\AndroidStudioProjects\TableSnakeMain\app\build\intermediates\pre-dexed\debug\classes-b6b02c613ee75cae33c0fdb7e25cefeffbe2a5f5.jar" />
+        <dex dex="C:\Users\jimbo\Documents\Android\TableSnake\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_abe35ee4814a39dcdd558937ccb2ec87dd8cc2f5.jar" />
     </item>
 
 </items>

@@ -1,4 +1,7 @@
-Complete Android App for the Snake Table game.
+# Android App for Snake Table
+
+Complete Single-Page Android App for the Snake Table game.
+**For more information visit http://www.instructables.com/id/Bluetooth-Controlled-LED-Snake-Table/**
 
 To Use:
 1. Pair the phone with the HC06 device in the default android menu (Settings > Bluetooth)
